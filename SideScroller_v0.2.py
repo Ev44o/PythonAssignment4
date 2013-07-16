@@ -188,9 +188,9 @@ def instructions(score):
     "from a hungry snake. You are a frog who",
     "seems to have all the bad luck. Not long",
     "ago you stumbled upon a hole in the ",
-    "ground and happened to be the home of a",
-    "very hungry snake. Now you must get away",
-    "as quickly as possible.",
+    "ground and it happened to be the home of",
+    "a very hungry snake. Now you must get",
+    "away as quickly as possible.",
     "",
     "ClickPress ESC to quit."
     )
